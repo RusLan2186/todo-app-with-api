@@ -2,7 +2,7 @@
 
 ## Live Preview
 
-Check out the live preview of the landing page here:
+Check out the live preview of the Todo App here:
  [DEMO LINK](https://ruslan2186.github.io/todo-app-with-api/)  
 
 ## Overview
