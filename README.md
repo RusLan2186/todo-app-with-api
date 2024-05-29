@@ -7,9 +7,21 @@ Check out the live preview of the landing page here:
 
 ## Overview
 
+The React Todo-App with API is a robust and dynamic web application designed to manage and track your daily tasks. This project leverages modern front-end technologies and best practices to deliver a seamless and responsive user experience.
+
 ## Features
 
-- 
+- CRUD Operations: Users can create, read, update, and delete tasks.
+  
+- API Integration: All data is persisted via RESTful API endpoints.
+
+- State Management: Efficient state management using React hooks and context.
+  
+- Responsive Design: Optimized for both desktop and mobile devices.
+  
+- TypeScript: Enhances code quality with static typing and improved IDE support.
+  
+- SCSS: Advanced styling capabilities with nested rules, variables, and mixins.
 
 
 ## Technologies used
