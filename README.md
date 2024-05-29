@@ -18,7 +18,7 @@ Check out the live preview of the landing page here:
   
 - TypeScript: Adds static typing to JavaScript for enhanced code maintainability and robustness.
   
-- Styling library: Bulma.
+- Styling: SCSS.
 
 ## Instructions for Launch:
 1. Clone the repository:
