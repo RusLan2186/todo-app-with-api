@@ -15,7 +15,7 @@ Check out the live preview of the landing page here:
 ## Technologies used
 - HTML
   
-- SCC (SCSS)
+- CSS (SCSS)
 
 - React
   
