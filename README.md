@@ -13,12 +13,15 @@ Check out the live preview of the landing page here:
 
 
 ## Technologies used
+- HTML
+  
+- SCC (SCSS)
 
-- React: Front-end JavaScript library for building user interfaces.
+- React
   
-- TypeScript: Adds static typing to JavaScript for enhanced code maintainability and robustness.
+- TypeScript
   
-- Styling: SCSS.
+
 
 ## Instructions for Launch:
 1. Clone the repository:
