@@ -13,13 +13,12 @@ Check out the live preview of the landing page here:
 
 
 ## Technologies used
-- HTML
-  
-- CSS (SCSS)
 
-- React
-  
-- TypeScript
+-React: A front-end JavaScript library for building user interfaces.
+
+-TypeScript: Adds static typing to JavaScript for enhanced code maintainability and robustness.
+
+-SCSS: A CSS preprocessor that provides variables, nested rules, and mixins to streamline the styling process.
   
 
 
