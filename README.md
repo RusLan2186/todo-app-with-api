@@ -14,11 +14,9 @@ Check out the live preview of the landing page here:
 
 ## Technologies used
 
-* HTML
-* CSS 
-* Java Script
-* Type Script
-* React
+React: Front-end JavaScript library for building user interfaces.
+TypeScript: Adds static typing to JavaScript for enhanced code maintainability and robustness.
+Styling library: Bulma.
 
 ## Instructions for Launch:
 1. Clone the repository:
