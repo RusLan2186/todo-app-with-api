@@ -11,6 +11,8 @@ The React Todo-App with API is a robust and dynamic web application designed to 
 
 ## Features
 
+- User Authentication: The app checks for a valid user ID before displaying content.
+
 - CRUD Operations: Users can create, read, update, and delete tasks.
   
 - API Integration: All data is persisted via RESTful API endpoints.
