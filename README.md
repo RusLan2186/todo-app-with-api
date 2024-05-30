@@ -21,10 +21,6 @@ The React Todo-App with API is a robust and dynamic web application designed to 
   
 - Responsive Design: Optimized for both desktop and mobile devices.
   
-- TypeScript: Enhances code quality with static typing and improved IDE support.
-  
-- SCSS: Advanced styling capabilities with nested rules, variables, and mixins.
-
 
 ## Technologies used
 
