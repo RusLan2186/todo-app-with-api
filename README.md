@@ -27,6 +27,10 @@ The React Todo-App with API is a robust and dynamic web application designed to 
 
 - SCSS: A CSS preprocessor that provides variables, nested rules, and mixins to streamline the styling process.
   
+- Bulma: A modern CSS framework based on Flexbox.
+
+- ESLint: A tool for identifying and fixing problems in JavaScript code.
+  
 
 
 ## Instructions for Launch:
