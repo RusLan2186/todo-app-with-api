@@ -1,13 +1,10 @@
 # React Todo-App with API
 
-## Live Preview
-
-Check out the live preview of the Todo App here:
- [DEMO LINK](https://ruslan2186.github.io/todo-app-with-api/)  
-
 ## Overview
 
 The React Todo-App with API is a robust and dynamic web application designed to manage and track your daily tasks. This project leverages modern front-end technologies and best practices to deliver a seamless and responsive user experience.
+
+-  [DEMO LINK](https://ruslan2186.github.io/todo-app-with-api/)  
 
 ## Features
 
