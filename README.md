@@ -21,18 +21,15 @@ The React Todo-App with API is a robust and dynamic web application designed to 
 
 ## Technologies used
 
-- React: A front-end JavaScript library for building user interfaces.
+- React: For building the user interface.
 
-- TypeScript: Adds static typing to JavaScript for enhanced code maintainability and robustness.
+- TypeScript: For type safety and improved developer experience..
 
-- SCSS: A CSS preprocessor that provides variables, nested rules, and mixins to streamline the styling process.
+- SCSS: For styling the components.
+
+- ESLint: For identifying and fixing problems in JavaScript code.
+
   
-- Bulma: A modern CSS framework based on Flexbox.
-
-- ESLint: A tool for identifying and fixing problems in JavaScript code.
-  
-
-
 ## Instructions for Launch:
 1. Clone the repository:
 
