@@ -27,6 +27,10 @@ The React Todo-App with API is a robust and dynamic web application designed to 
 
 - SCSS: For styling the components.
 
+- Fetch API: For making API requests to manage todos.
+  
+- Context API: For state management.
+
 - ESLint: For identifying and fixing problems in JavaScript code.
 
   
