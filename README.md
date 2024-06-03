@@ -36,7 +36,8 @@ The React Todo-App with API is a robust and dynamic web application designed to 
   
 ## Instructions for Launch:
 
-Prerequisites
+# Prerequisites
+
 Ensure you have the following installed:
 
 Node.js (v14.21.3)
