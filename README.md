@@ -42,6 +42,8 @@ Ensure you have the following installed:
 
 Node.js (v14.21.3)
 
+### Installation
+
 1. Clone the repository:
 
 ```bash
